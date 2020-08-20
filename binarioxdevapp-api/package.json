@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "binarioxdevapp-common": "file:../binarioxdevapp-common",
     "binarioxdevapp-db": "file:../binarioxdevapp-db",
     "body-parser": "^1.18.3",
